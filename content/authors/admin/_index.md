@@ -72,4 +72,4 @@ I am a postdoctoral researcher at the [Section of Mathematics](https://www.unige
 
 From 2015 to 2020, I was a PhD student at the [GIREF](https://giref.ulaval.ca/) (research group on finite elements), at the Department of Mathematics and Statistics of Laval University, under the supervision of [Jean Deteix](https://www.researchgate.net/profile/Jean-Deteix). Prior to that, I worked on my Master's thesis at the [CEA](https://www.cea.fr/), under the supervision of [Jean-Philippe Braeunig](https://www.researchgate.net/profile/Jean-Philippe-Braeunig-2). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_BChaudetDumas.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_BChaudetDumas.pdf" "newtab" >}}here{{< /staticref >}}.
