@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching assistant
     company: University of Geneva
-    date_start: '2020-08'
+    date_start: '2020-08-01'
     date_end: ''
     description: |2-        
         * Analysis I
@@ -34,8 +34,8 @@ experience:
 
   - title: Lecturer
     company: Laval University
-    date_start: 'Fall 2016'
-    date_end: 'Fall 2018'
+    date_start: '2016-09-01'
+    date_end: '2018-22-12'
     description: |2-
          * Mathematics for engineers I
 
