@@ -70,6 +70,6 @@ highlight_name: true
 
 I am a postdoctoral researcher at the Section of Mathematics of the University of Geneva, in the research group of Martin J. Gander. I specialize in the fields of numerical analysis, optimization and partial differential equations (PDEs). My broad research interests include topology and shape optimization, optimal control, contact mechanics, wave propagation, and iterative solvers for PDEs (especially multigrid and domain decomposition methods).
 
-From 2015 to 2020, I was a PhD student at the GIREF, the research group on finite elements at the Department of Mathematics and Statistics of Laval University, under the supervision of Jean Deteix. 
+From 2015 to 2020, I was a PhD student at the GIREF (research group on finite elements), at the Department of Mathematics and Statistics of Laval University, under the supervision of Jean Deteix. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
