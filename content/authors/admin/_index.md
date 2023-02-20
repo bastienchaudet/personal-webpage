@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bastien Chaudet-Dumas
+# title: Bastien Chaudet-Dumas
 
 # Is this the primary user of the site?
 superuser: true
