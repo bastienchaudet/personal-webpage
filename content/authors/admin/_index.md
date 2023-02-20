@@ -14,12 +14,14 @@ organizations:
     url: https://www.unige.ch/math
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in the field of numerical analysis and partial differential equations.
 
 # Interests to show in About widget
 interests:
   - Numerical analysis
   - Shape optimization
+  - Optimal control
+  - Elliptic variational inequalities
   - Domain decomposition methods
   - Multigrid methods
   - Wave propagation
@@ -33,8 +35,8 @@ education:
     - course: MSc in Mathematics and applications
       institution: Sorbonne University
       year: 2014
-    - course: MSc in Mathematical Engineering
-      institution: ENSTA Paris
+    - course: MSc in Mathematical engineering
+      institution: IP Paris (ENSTA)
       year: 2014
 
 # Social/Academic Networking
@@ -66,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at the Section of Mathematics of the University of Geneva, in the research group of Martin J. Gander. I specialize in the fields of numerical analysis, optimization and partial differential equations (PDEs). My broad research interests include topology and shape optimization, optimal control, contact mechanics, wave propagation, and iterative solvers for PDEs (especially multigrid and domain decomposition methods).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+From 2015 to 2020, I was a PhD student at the GIREF, the research group on finite elements at the Department of Mathematics and Statistics of Laval University, under the supervision of Jean Deteix. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
