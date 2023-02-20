@@ -21,7 +21,7 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ESAIM: Control, Optimisation and Calculus of Variations*
+publication: In *ESAIM Control, Optimisation and Calculus of Variations*
 
 tags: []
 
