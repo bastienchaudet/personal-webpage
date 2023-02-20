@@ -29,10 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied mathematics
+    - course: PhD in Mathematics
       institution: Laval University
       year: 2020
-    - course: MSc in Mathematics and applications
+    - course: MSc in Mathematics
       institution: Sorbonne University
       year: 2014
     - course: MSc in Mathematical engineering
