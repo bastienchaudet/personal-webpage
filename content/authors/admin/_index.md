@@ -72,4 +72,4 @@ I am a postdoctoral researcher at the Section of Mathematics of the University o
 
 From 2015 to 2020, I was a PhD student at the GIREF (research group on finite elements), at the Department of Mathematics and Statistics of Laval University, under the supervision of Jean Deteix. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV - BChaudetDumas.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_BChaudetDumas.pdf" "newtab" >}}CV{{< /staticref >}}.
