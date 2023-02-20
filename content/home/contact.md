@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: bastien(dot)chaudet(at)unige(dot)ch
+  email: bastien.chaudet(at)unige.ch
   phone: +41 22 379 11 54
   address:
     street: Rue du Conseil Général 7-9
