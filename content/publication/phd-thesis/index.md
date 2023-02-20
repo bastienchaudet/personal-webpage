@@ -20,7 +20,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-publication: Laval University
+publication: PhD thesis at Laval University
 
 tags: []
 
