@@ -13,19 +13,19 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: bastien.chaudet@unige.ch
+  email: bastien(dot)chaudet(at)unige(dot)ch
   phone: +41 22 379 11 54
   address:
     street: Rue du Conseil Général 7-9
