@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the Section of Mathematics of the University of Geneva, in the research group of Martin J. Gander. I specialize in the fields of numerical analysis, optimization and partial differential equations (PDEs). More specifically, my research interests include topology and shape optimization, optimal control, contact mechanics, wave propagation, and iterative solvers for PDEs (especially multigrid and domain decomposition methods).
+I am a postdoctoral researcher at the [Section of Mathematics](https://www.unige.ch/math/) of the University of Geneva, in the research group of [Martin J. Gander](http://www.unige.ch/~gander/). I specialize in the fields of numerical analysis, optimization and partial differential equations (PDEs). More specifically, my research interests include topology and shape optimization, optimal control, contact mechanics, wave propagation, and iterative solvers for PDEs (especially multigrid and domain decomposition methods).
 
-From 2015 to 2020, I was a PhD student at the GIREF (research group on finite elements), at the Department of Mathematics and Statistics of Laval University, under the supervision of Jean Deteix. Prior to that, I worked on my Master's thesis at the CEA, under the supervision of Jean-Philippe Braeunig. 
+From 2015 to 2020, I was a PhD student at the [GIREF](https://giref.ulaval.ca/) (research group on finite elements), at the Department of Mathematics and Statistics of Laval University, under the supervision of [Jean Deteix](https://www.researchgate.net/profile/Jean-Deteix). Prior to that, I worked on my Master's thesis at the [CEA](https://www.cea.fr/), under the supervision of [Jean-Philippe Braeunig](https://www.researchgate.net/profile/Jean-Philippe-Braeunig-2). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_BChaudetDumas.pdf" "newtab" >}}CV{{< /staticref >}}.
