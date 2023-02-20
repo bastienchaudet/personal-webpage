@@ -20,7 +20,7 @@ publishDate: '2014-01-01T00:00:00Z'
 publication_types: ['7']
 
 # Publication name and optional abbreviated publication name.
-publication: IP Paris (ENSTA)
+publication: Master's thesis at IP Paris (ENSTA)
 
 tags: []
 
