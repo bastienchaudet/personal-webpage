@@ -4,7 +4,7 @@
 widget: pages
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 100
@@ -14,7 +14,7 @@ subtitle:
 
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
 You can find here the list of my previous and current teaching activities.
