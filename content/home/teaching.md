@@ -1,6 +1,7 @@
 ---
-# An instance of the Contact widget.
-widget: teaching
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -13,7 +14,7 @@ subtitle:
 
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 You can find here the list of my previous and current teaching activities.
