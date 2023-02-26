@@ -1,5 +1,5 @@
 ---
-title: 'Shape Derivatives for the Penalty Formulation of Elastic Contact Problems with Tresca Friction'
+title: 'Shape derivatives for the penalty formulation of elastic contact problems with Tresca friction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
