@@ -20,7 +20,7 @@ publishDate: '2022-08-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in International Journal of Numerical Methods in Engineering
+publication: To appear in *International Journal for Numerical Methods in Engineering*
 
 tags: []
 
