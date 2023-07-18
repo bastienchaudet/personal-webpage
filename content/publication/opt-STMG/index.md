@@ -10,7 +10,7 @@ authors:
   - Ausra Pogozelskyte
 
 date: '2023-03-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2302.13881'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-03-01T00:00:00Z'
@@ -24,12 +24,14 @@ publication_types: ['3']
 # Publication name and optional abbreviated publication name.
 publication: Submitted
 
+abstract: "We investigate three directions to further improve the highly efficient Space-Time Multigrid algorithm with block-Jacobi smoother introduced in [GanNeu16]. First, we derive an analytical expression for the optimal smoothing parameter in the case of a full space-time coarsening strategy; second, we propose a new and efficient direct coarsening strategy which simplifies the code by preventing changes of coarsening regimes; and third, we also optimize the entire two cycle to investigate if further efficiency gains are possible. Especially, we show that our new coarsening strategy leads to a significant efficiency gain when the ratio τ/h2 is small, where τ and h represent the time and space steps. Our analysis is performed for the heat equation in one spatial dimension, using centered finite differences in space and Backward Euler in time, but could be generalized to other situations. We also present numerical experiments that confirm our theoretical findings."
+
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: '/publication/opt-STMG/An_optimized_space_time_multigrid_algorithm_for_parabolic_PDEs_arXiv.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
