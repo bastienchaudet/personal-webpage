@@ -22,12 +22,14 @@ publication_types: ['7']
 # Publication name and optional abbreviated publication name.
 publication: PhD thesis at Laval University
 
+abstract: "This thesis deals with shape optimization for contact mechanics. More specifically, the linear elasticity model is considered under the small deformations hypothesis, and the elastic body is assumed to be in contact (sliding or with Tresca friction) with a rigid foundation. The mathematical formulations studied are two regularized versions of the original variational inequality: the penalty formulation and the augmented Lagrangian formulation. In order to get the shape derivatives associated to those two non-differentiable formulations, we suggest an approach based on directional derivatives. Especially, we derive sufficient conditions for the solution to be shape differentiable. This allows to develop a gradient-based topology optimization algorithm, built on these derivatives and a level-set representation of shapes. The algorithm also benefits from a mesh-cutting technique, which gives an explicit representation of the shape at each iteration, and enables to apply the boundary conditions strongly on the contact zone. The different steps of the method are detailed. Then, to validate the approach, some numerical results on two-dimensional and three-dimensional benchmarks are presented."
+
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: '/publication/phd-thesis/These_BChaudet-Dumas.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
