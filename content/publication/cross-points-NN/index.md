@@ -23,6 +23,8 @@ publication_types: ['1']
 # Publication name and optional abbreviated publication name.
 publication: To appear in *Domain Decomposition Methods in Science and Engineering XXVII*
 
+abstract: "In this work, we focus on the Neumann-Neumann method (NNM), which is one of the most popular non-overlapping domain decomposition methods. Even though the NNM is widely used and proves itself very efficient when applied to discrete problems in practical applications, it is in general not well defined at the continuous level when the geometric decomposition involves cross-points. Our goals are to investigate this well-posedness issue and to provide a complete analysis of the method at the continuous level, when applied to a simple elliptic problem on a configuration involving one cross-point. More specifically, we prove that the algorithm generates solutions that are singular near the cross-points. We also exhibit the type of singularity introduced by the method, and show how it propagates through the iterations. Then, based on this analysis, we design a new set of transmission conditions that makes the new NNM geometrically convergent for this simple configuration. Finally, we illustrate our results with numerical experiments."
+
 tags: []
 
 # Display this page in the Featured widget?
