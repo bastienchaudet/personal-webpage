@@ -23,12 +23,14 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In *Numerical Algorithms*
 
+abstract: "Cross-points in domain decomposition, i.e., points where more than two subdomains meet, have received substantial attention over the past years, since domain decomposition methods often need special attention in their definition at cross-points, in particular if the transmission conditions of the domain decomposition method contain derivatives, like in the Dirichlet-Neumann method. We study here for the first time the convergence of the Dirichlet-Neumann method at the continuous level in the presence of cross-points. We show that its iterates can be uniquely decomposed into two parts, an even symmetric part that converges geometrically, like when there are no cross-points present, and an odd symmetric part, which generates a singularity at the cross-point and is not convergent. We illustrate our analysis with numerical experiments."
+
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://link.springer.com/article/10.1007/s11075-022-01445-1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
