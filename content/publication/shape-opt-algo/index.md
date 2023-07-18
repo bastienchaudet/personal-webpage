@@ -8,7 +8,7 @@ authors:
   - Bastien Chaudet-Dumas
 
 date: '2023-01-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1002/nme.7235'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-01-01T00:00:00Z'
@@ -20,7 +20,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: To appear in *International Journal for Numerical Methods in Engineering*
+publication: In *International Journal for Numerical Methods in Engineering*
 
 tags: []
 
