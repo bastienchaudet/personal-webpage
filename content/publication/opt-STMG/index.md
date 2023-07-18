@@ -10,7 +10,7 @@ authors:
   - Ausra Pogozelskyte
 
 date: '2023-03-01T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2302.13881'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-03-01T00:00:00Z'
