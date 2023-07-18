@@ -8,7 +8,7 @@ authors:
   - Bastien Chaudet
 
 date: '2014-01-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2208.13409'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2014-01-01T00:00:00Z'
@@ -22,12 +22,14 @@ publication_types: ['7']
 # Publication name and optional abbreviated publication name.
 publication: Master's thesis at IP Paris (ENSTA)
 
+abstract: "This work is in the field of multi-material compressible fluid flows simulation. The proposed scheme is eulerian and related to finite volumes methods, but in a Lagrange-Remap formalism on regular orthogonal meshes. The Lagrangian scheme is staggered and the remap phase is similar to a finite volume advection scheme. The multi-material extension uses classical VOF fluxes for sharp interface reconstruction. The originality of the scheme is in the attempt for a 9 points remap scheme without directional splitting. This strategy should allow to preserve good properties of classical multi-material staggered schemes, while saving parallel communications with the one step remap. Results will be discussed and compared to those from classical Lagrange-Remap schemes on severe benchmarks."
+
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: '/publication/master-thesis/MSc_thesis_BChaudet.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
