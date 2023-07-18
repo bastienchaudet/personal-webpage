@@ -23,12 +23,14 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In *SIAM Journal on Control and Optimization*
 
+abstract: "In this article, the shape optimization of a linear elastic body subject to frictional (Tresca) contact is investigated. Due to the projection operators involved in the formulation of the contact problem, the solution is not shape differentiable in general. Moreover, shape optimization of the contact zone requires the computation of the gap between the bodies in contact, as well as its shape derivative. Working with directional derivatives, sufficient conditions for shape differentiability are derived. Then, some numerical results, obtained with a gradient descent algorithm based on those shape derivatives, are presented."
+
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: '/publication/shape-derivatives-penalty/Shape_derivatives_for_the_penalty_formulation_of_elastic_contact_problems_with_Tresca_friction.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
