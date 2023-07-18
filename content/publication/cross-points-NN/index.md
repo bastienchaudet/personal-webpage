@@ -21,7 +21,7 @@ publishDate: '2023-02-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In revision
+publication: To appear in *Domain Decomposition Methods in Science and Engineering XXVII*
 
 tags: []
 
