@@ -28,7 +28,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://github.com/bastienchaudet/personal-webpage/blob/main/content/publication/cross-points-NN/Cross-points_in_the_Neumann_Neumann_method.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
