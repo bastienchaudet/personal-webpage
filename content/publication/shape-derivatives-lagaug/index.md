@@ -23,12 +23,14 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In *ESAIM Control, Optimisation and Calculus of Variations*
 
+abstract: "This work deals with shape optimization of an elastic body in sliding contact (Signorini) with a rigid foundation. The mechanical problem is written under its augmented Lagrangian formulation, then solved using a classical iterative approach. For practical reasons we are interested in applying the optimization process with respect to an intermediate solution produced by the iterative method. Because of the projection operator involved at each iteration, the iterate solution is not classically shape differentiable. However, using an approach based on directional derivatives, we are able to prove that it is conically differentiable with respect to the shape, and express sufficient conditions for shape differentiability. Finally, from the analysis of the sequence of conical shape derivatives of the iterative process, conditions are established for the convergence to the conical derivative of the original contact problem."
+
 tags: []
 
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://www.esaim-cocv.org/articles/cocv/pdf/2021/01/cocv190132.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
