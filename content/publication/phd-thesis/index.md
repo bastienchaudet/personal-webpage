@@ -8,7 +8,7 @@ authors:
   - Bastien Chaudet-Dumas
 
 date: '2020-01-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2208.13413'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-01-01T00:00:00Z'
